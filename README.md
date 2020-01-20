@@ -10,7 +10,7 @@ is an Adventure Time themed Connect Four game, done during a course at [SPICED A
 
 ## Try it out!
 
-https://google.com
+https://dean45.github.io/connect4/
 
 ## Tech
 
